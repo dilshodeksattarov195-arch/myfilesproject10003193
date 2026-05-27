@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderpncrypt",
+        "uuid": 1839168,
+        "checksum": "h8fzs"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
